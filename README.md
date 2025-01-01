@@ -1,4 +1,4 @@
-**Random Quote Machine**
+# Random Quote Machine
 
 <img width="1417" alt="Screenshot 2025-01-01 at 20 35 38" src="https://github.com/user-attachments/assets/90fd69fb-a8c8-4b78-b7aa-330f8390b08a" />
 
